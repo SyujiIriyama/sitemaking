@@ -1,6 +1,5 @@
 @charset "utf-8";
-@import 'https://fonts.googleapis.com/css?family=Vidaloka';
-
+@import 'https://fonts.googleapis.com/css?family=Alfa+Slab+One|Katibeh';
 //変数宣言
 
 /* base */
@@ -37,7 +36,7 @@ h1 {
 h1,
 h2,
 h3{
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Katibeh", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
 }
@@ -123,7 +122,7 @@ section {
 .btn-xl {
     color: white;
     background-color: #0068b7;
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Katibeh", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     border-radius: 3px;
     font-size: 18px;
